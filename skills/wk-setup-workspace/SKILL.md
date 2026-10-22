@@ -12,13 +12,15 @@ disable-model-invocation: true
 6. 팩토리 설정 `wk-factory.yaml`에서 registry.root 폴더에 작업 개요와 공통 규칙을 저장하는 `project.md`를 만든다.
 
 ## `wk-factory.yaml` 예시
+새 설정의 기본 장부 경로는 `~/.cache/workee/registries/<PROJECT_ID>`다.
+
 ```
 schema: 1
 project:
   id: <PROJECT_ID>
 registry:
-  root: ~/.cache/rfactory/registries/<PROJECT_ID>
-  guide: ~/.cache/rfactory/registries/<PROJECT_ID>/project.md
+  root: ~/.cache/workee/registries/<PROJECT_ID>
+  guide: ~/.cache/workee/registries/<PROJECT_ID>/project.md
 work:
   id_prefix: <TO_UPPERCASES_OF_THE_FIRST_THREE_CODE_OF_PROJECT_ID>
 glossary:
