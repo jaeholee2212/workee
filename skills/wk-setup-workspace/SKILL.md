@@ -35,7 +35,7 @@ glossary:
 ```
 
 ## 작업 개요와 공통 규칙 `project.md`
-작업 식별과 색인 항목은 [장부 규약](../wk-work/references/registry.md)을 따른다.
+작업 식별과 색인 항목은 [작업 식별](../wk-work/references/registry.md#작업-식별)과 [색인 관리](../wk-work/references/registry.md#색인-관리)를 따른다.
 작업 생성 시 아래 색인에 항목을 추가한다.
 단계와 상태의 원본은 각 작업의 `work.md`에 둔다.
 

@@ -4,7 +4,7 @@ description: 작업을 중단하거나 다른 에이전트가 이어받을 때 �
 disable-model-invocation: true
 ---
 # 중단과 인계
-1. [장부 규약](../wk-work/references/registry.md)을 읽고 새 변경을 시작하지 않는다.
+1. [필요한 기록 규약](../wk-work/references/registry.md#필요한-규약-선택)을 읽고 새 변경을 시작하지 않는다.
 2. 현재 코드와 문서가 어디에 보존됐는지 확인한다.
 3. 구현 공간이 있으면 소유 마스터, 브랜치·워크트리, HEAD와 미커밋 변경을 적는다.
 4. 작업 ID, 상위 작업, 현재 단계와 관련 하위 작업을 적는다.

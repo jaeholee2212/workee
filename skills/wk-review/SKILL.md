@@ -4,7 +4,7 @@ description: 문제 정의, 설계·계획, 구현 결과의 근거와 적합성
 disable-model-invocation: true
 ---
 # 검토
-1. [장부 규약](../wk-work/references/registry.md)과 검토할 대상 버전을 읽는다.
+1. [필요한 기록 규약](../wk-work/references/registry.md#필요한-규약-선택)과 검토할 대상 버전을 읽는다.
 2. 검토 파일이 배정되지 않았으면 [산출물 저장 규칙](../wk-work/references/registry.md#산출물-저장)에 따라 작업 기록 담당자에게 경로 배정을 요청한다.
 3. 대상에 맞는 아래 검토를 수행한다.
 4. 진행 가능, 보완 필요, 중단 제안 중 하나를 근거와 함께 적는다.

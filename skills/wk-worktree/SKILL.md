@@ -12,8 +12,8 @@ disable-model-invocation: true
 
 ## 소유 작업 확인
 
-1. [장부 규약](../wk-work/references/registry.md)과 현재 작업을 읽는다.
-2. [공통 작업 모델](../wk-work/references/work-model.md)의 구현 작업공간 규칙을 읽는다.
+1. [필요한 기록 규약](../wk-work/references/registry.md#필요한-규약-선택)과 현재 작업을 읽는다.
+2. [구현 작업공간](../wk-work/references/work-model.md#구현-작업공간)의 소유·공유·기록 규칙을 읽는다.
 3. 상위 링크를 따라 작업공간을 소유할 최상위 작업을 찾는다.
 4. 소유 작업에 기록된 구현 작업공간을 확인한다.
 

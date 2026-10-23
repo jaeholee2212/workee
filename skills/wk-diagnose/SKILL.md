@@ -4,7 +4,7 @@ description: 현상의 원인이나 요청 뒤의 장애물을 조사할 때 사
 disable-model-invocation: true
 ---
 # 진단
-1. [장부 규약](../wk-work/references/registry.md)을 읽는다.
+1. [필요한 기록 규약](../wk-work/references/registry.md#필요한-규약-선택)을 읽는다.
 2. 현상과 관찰 근거를 읽는다.
 3. 기능 요청이면 사용자 목표와 현재 그 목표를 막는 장애물을 구분한다.
 4. 관찰을 설명할 수 있는 경쟁 가설을 찾는다.

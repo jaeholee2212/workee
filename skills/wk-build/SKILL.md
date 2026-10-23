@@ -4,7 +4,7 @@ description: 승인된 작은 변경을 구현할 때 사용한다.
 disable-model-invocation: true
 ---
 # 작은 구현
-1. [장부 규약](../wk-work/references/registry.md), 계약, 첫 변경 계획을 읽는다.
+1. [필요한 기록 규약](../wk-work/references/registry.md#필요한-규약-선택), 계약, 첫 변경 계획을 읽는다.
 2. [진행 정책](../wk-work/policies/progression.md#자율-진행과-사용자-판단)에 따른 실행 위임 또는 예외의 근거와 허용 범위를 확인한다.
 3. 전달받은 실행 위치를 소유 마스터에 기록된 브랜치·워크트리와 대조한다.
 4. 배정된 작성 파일·허용 동작과 현재 작성자를 확인한다.

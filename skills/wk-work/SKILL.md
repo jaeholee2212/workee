@@ -16,18 +16,21 @@ disable-model-invocation: true
 
 ## 공통 규약
 
-| 문서 | 책임 |
+현재 행동에 필요한 절만 읽고, 이미 읽은 유효한 규약은 재사용한다.
+
+| 읽을 때 | 규약 |
 | --- | --- |
-| [진행 정책](policies/progression.md) | 자율 진행·결과에 따른 반복·사용자 판단·중단 |
-| [공동 탐구](policies/collaboration.md) | 논의·계획의 대화·피드백·공유된 이해 |
-| [장부 규약](references/registry.md) | 설정·작업 식별·문서·색인·이력 |
-| [공통 작업 모델](references/work-model.md) | 스킬 실행 결과·작업 상태·관계·검증 근거·완료 판정 |
+| 시작·재개 시 요청 범위와 권한을 판단한다. | [자율 진행과 사용자 판단](policies/progression.md#자율-진행과-사용자-판단) |
+| 논의·계획에서 사용자와 문제·대안·설계를 검토한다. | [공동 탐구](policies/collaboration.md) |
+| 설정·작업을 확인하거나 기록을 다룬다. | [필요한 기록 규약](references/registry.md#필요한-규약-선택) |
+| 하위 스킬의 결과로 다음 행동을 정한다. | [스킬 실행 결과](references/work-model.md#스킬-실행-결과)와 [결과에 따른 반복](policies/progression.md#결과에-따른-반복) |
+| 종료·대기·재개 여부를 정한다. | [종료와 재개](policies/progression.md#종료와-재개) |
 
 ## 시작·재개
 
 1. 전달받은 자료에서 목표와 요청한 진행 범위를 확인한다.
-2. 공통 규약을 읽는다.
-3. 장부 규약으로 설정 원본을 확인한다.
+2. [자율 진행과 사용자 판단](policies/progression.md#자율-진행과-사용자-판단)으로 기존 합의·실행 위임과 제한을 확인한다.
+3. [필요한 기록 규약](references/registry.md#필요한-규약-선택)으로 설정 원본과 작업 기록을 확인한다.
 4. 새 설정이나 장부가 필요하면 [wk-setup-workspace](../wk-setup-workspace/SKILL.md)에 초기화를 맡긴다.
 5. 대상 작업을 찾거나 등록한다.
 6. 상위 목표와 관련 하위 작업의 산출물·현재 이해를 확인한다.

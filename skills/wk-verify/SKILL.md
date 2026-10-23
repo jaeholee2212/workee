@@ -4,7 +4,7 @@ description: 구현·연구·계획 결과가 근거와 원래 완료 조건을 
 disable-model-invocation: true
 ---
 # 검증
-1. [장부 규약](../wk-work/references/registry.md), 원래 근거, 완료 조건을 읽는다.
+1. [필요한 기록 규약](../wk-work/references/registry.md#필요한-규약-선택), 원래 근거, 완료 조건을 읽는다.
 2. 요청된 검증이 변경 단위인지 전체 목표인지 확인한다.
 3. 검증 대상의 종류·위치·버전을 식별한다.
 4. 요청된 완료 조건별로 필요한 확인 방법과 근거를 연결한다.

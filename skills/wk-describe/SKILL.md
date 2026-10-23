@@ -6,7 +6,7 @@ disable-model-invocation: true
 
 # 현상 기술
 
-1. [장부 규약](../wk-work/references/registry.md)을 읽는다.
+1. [필요한 기록 규약](../wk-work/references/registry.md#필요한-규약-선택)을 읽는다.
 2. 지정된 `work.md`를 읽는다.
 3. 누가 어떤 상황에서 무엇을 보았는지 적는다.
 4. 직접 관찰과 전달받은 보고를 구분한다.

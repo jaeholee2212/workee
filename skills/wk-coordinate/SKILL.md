@@ -4,8 +4,8 @@ description: 여러 작업의 선행 산출물, 에이전트 작성 범위와 �
 disable-model-invocation: true
 ---
 # 작업 조정
-1. [장부 규약](../wk-work/references/registry.md)과 각 작업의 담당자를 읽는다.
-2. [공통 작업 모델](../wk-work/references/work-model.md)에 따라 작업 관계·계약·선행 산출물을 확인한다.
+1. [필요한 기록 규약](../wk-work/references/registry.md#필요한-규약-선택)과 각 작업의 담당자를 읽는다.
+2. [포함 관계](../wk-work/references/work-model.md#포함-관계)와 [선행 산출물](../wk-work/references/work-model.md#선행-산출물)에 따라 작업 관계·계약·준비 조건을 확인한다.
 3. 요청받은 변경 범위 안에서 작성 파일과 공유 자원을 주체별로 배정한다.
 4. 같은 파일에 두 작성자를 배정하지 않는다.
 5. 담당자 변경 전에는 이전 주체의 중단을 확인한다.

@@ -4,7 +4,7 @@ description: 대안을 선택하거나 이전 결정을 다시 검토할 때 사
 disable-model-invocation: true
 ---
 # 결정
-1. [장부 규약](../wk-work/references/registry.md)과 현재 비교 근거를 읽는다.
+1. [필요한 기록 규약](../wk-work/references/registry.md#필요한-규약-선택)과 현재 비교 근거를 읽는다.
 2. [결정 준비](references/readiness.md)를 충족했는지 평가한다.
 3. 근거가 부족하면 선택을 바꿀 질문과 필요한 근거를 반환한다.
 4. 선택 이유와 가장 유력한 다른 후보를 택하지 않은 이유를 적는다.

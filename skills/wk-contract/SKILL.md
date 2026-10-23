@@ -4,7 +4,7 @@ description: 변경할 동작의 조건과 검증할 약속을 정할 때 사용
 disable-model-invocation: true
 ---
 # 동작 계약
-1. [장부 규약](../wk-work/references/registry.md), 완료 조건, 선택한 방향을 읽는다.
+1. [필요한 기록 규약](../wk-work/references/registry.md#필요한-규약-선택), 완료 조건, 선택한 방향을 읽는다.
 2. 관련 사용 사례별 입력 조건과 관찰 가능한 결과를 적는다.
 3. 입력과 결과 사이에서 유지할 관계를 적는다.
 4. 각 약속을 사용자 목표와 검증 방법에 연결한다.

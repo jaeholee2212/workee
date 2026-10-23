@@ -4,7 +4,7 @@ description: 확인한 현상에서 이번에 풀 문제와 범위를 정할 때
 disable-model-invocation: true
 ---
 # 문제 한정
-1. [장부 규약](../wk-work/references/registry.md)을 읽는다.
+1. [필요한 기록 규약](../wk-work/references/registry.md#필요한-규약-선택)을 읽는다.
 2. 관찰 근거를 읽는다.
 3. 기존 진단이 있으면 그 결과를 읽는다.
 4. 충족되지 않은 사용자 목표와 근거가 있는 장애물을 연결한다.

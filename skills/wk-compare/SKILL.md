@@ -4,7 +4,7 @@ description: 방향이나 구현 방식을 비교할 때 사용한다.
 disable-model-invocation: true
 ---
 # 대안 비교
-1. [장부 규약](../wk-work/references/registry.md)과 현재 문제를 읽는다.
+1. [필요한 기록 규약](../wk-work/references/registry.md#필요한-규약-선택)과 현재 문제를 읽는다.
 2. 이번 비교가 결정할 방향이나 구현 방식을 명시한다.
 3. 사용자 결과와 제약에서 선택을 가르는 설계 축을 찾는다.
 4. 현상 유지안을 비교의 기준점으로 둔다.
