@@ -21,7 +21,7 @@ disable-model-invocation: true
 | 읽을 때 | 규약 |
 | --- | --- |
 | 시작·재개 시 요청 범위와 권한을 판단한다. | [자율 진행과 사용자 판단](policies/progression.md#자율-진행과-사용자-판단) |
-| 논의·계획에서 사용자와 문제·대안·설계를 검토한다. | [공동 탐구](policies/collaboration.md) |
+| 새 목표나 주요 설계를 논의·계획하거나 기존 합의의 변경을 다룬다. | [공동 탐구](policies/collaboration.md) |
 | 설정·작업을 확인하거나 기록을 다룬다. | [필요한 기록 규약](references/registry.md#필요한-규약-선택) |
 | 하위 스킬의 결과로 다음 행동을 정한다. | [스킬 실행 결과](references/work-model.md#스킬-실행-결과)와 [결과에 따른 반복](policies/progression.md#결과에-따른-반복) |
 | 종료·대기·재개 여부를 정한다. | [종료와 재개](policies/progression.md#종료와-재개) |
@@ -39,7 +39,7 @@ disable-model-invocation: true
 
 상태 확인이나 다음 행동 제안만 요청받으면 그 결과를 응답한다.
 작업을 이어 달라는 요청이면 기존 목표와 승인 범위 안에서 다음 행동을 실행한다.
-새 목표에 대한 공동 검토가 없으면 [공동 탐구](policies/collaboration.md)로 초기 이해부터 함께 확인한다.
+탐구의 시작·재개·작은 수정의 경계는 [적용 범위](policies/collaboration.md#적용-범위)로 판단한다.
 기존 합의의 재사용·직접 실행·초안이나 조사 결과만 반환하는 조건은 [진행 정책](policies/progression.md#자율-진행과-사용자-판단)을 따른다.
 
 ## 단계별 조합
