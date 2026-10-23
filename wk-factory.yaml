@@ -1,0 +1,10 @@
+schema: 1
+project:
+  id: workee
+registry:
+  root: ~/.cache/workee/registries/workee
+  guide: ~/.cache/workee/registries/workee/project.md
+work:
+  id_prefix: WKE
+glossary:
+  path: docs/GLOSSARY.md
